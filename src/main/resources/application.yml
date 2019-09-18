@@ -1,0 +1,8 @@
+spring:
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888
+      name: cwj-itoken-erurka
+      label: master
+      profile: dev
