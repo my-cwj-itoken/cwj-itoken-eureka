@@ -5,3 +5,4 @@ spring:
       name: cwj-itoken-eureka
       label: master
       profile: dev
+      
