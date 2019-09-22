@@ -4,4 +4,4 @@ spring:
       uri: http://192.168.116:8888
       name: cwj-itoken-eureka
       label: master
-      profile: dev
+      profile: prod
