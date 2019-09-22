@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.116:8888
+      name: cwj-itoken-eureka
+      label: master
+      profile: dev
